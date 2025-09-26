@@ -40,12 +40,12 @@ This project analyzes the NYC Airbnb dataset to uncover insights into:
 
 ## 📁 Folder Structure
 ## AirBnbHotelAnalysis/
-##│
-##│── data/ # Raw and cleaned datasets
-##│── notebooks/ # Jupyter notebooks for EDA and visualization
-##│── visuals/ # Saved plots and charts
-##│── README.md # Project overview
-##│── conclusions/ # Summary write-ups and future scope
+│
+│── data/ | # Raw and cleaned datasets
+│── notebooks/| # Jupyter notebooks for EDA and visualization
+│── visuals/ |# Saved plots and charts
+│── README.md| # Project overview
+│── conclusions/ |# Summary write-ups and future scope
 
 ## 📊 Key Insights
 - Entire home/apartment listings dominate across NYC  
