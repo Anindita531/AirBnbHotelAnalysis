@@ -3,7 +3,7 @@ Data analysis of NYC Airbnb listings using Python. Explores pricing, host behavi
 🏨 AirBnbHotelAnalysis
 A comprehensive data analysis project exploring short-term lodging trends in New York City using the Airbnb dataset. This study dives into pricing dynamics, host behavior, review patterns, and availability metrics—backed by visual storytelling and statistical rigor.
 
-📌 Project Overview
+/ ** 📌 Project Overview **
 This project analyzes the NYC Airbnb dataset to uncover insights into:
 
 Listing types and neighborhood distribution
@@ -35,8 +35,10 @@ NumPy	Numerical operations
 Matplotlib & Seaborn	Visualizations
 Jupyter Notebook	Interactive development
 (Optional) Scikit-learn / Statsmodels	For future ML and statistical modeling
-📁 Folder Structure
-Code
+
+**
+📁 Folder Structure **
+ 
 AirBnbHotelAnalysis/
 │
 ├── data/                  # Raw and cleaned datasets
