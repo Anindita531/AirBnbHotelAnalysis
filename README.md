@@ -1,5 +1,51 @@
+# 🏨 AirBnbHotelAnalysis
+
+A comprehensive **data analysis project** exploring short-term lodging trends in New York City using the Airbnb dataset.  
+This study dives into **pricing dynamics, host behavior, review patterns, and availability metrics** — backed by **visual storytelling** and **statistical rigor**.
 
 ---
+
+## 📌 Project Overview
+This project analyzes the NYC Airbnb dataset to uncover insights into:
+
+- Listing types and neighborhood distribution  
+- Host verification impact on review rates  
+- Price and service fee correlations  
+- Availability trends across host listing counts  
+- Guest satisfaction indicators from review data  
+
+---
+
+## 🚀 Features
+- 📊 **Exploratory Data Analysis (EDA)** with Pandas & Seaborn  
+- 📈 **Regression plots, boxplots, grouped bar charts**  
+- 🧮 **Statistical testing** (correlation, t-tests)  
+- 📍 **Neighborhood-level review and pricing insights**  
+- 📦 **Modular code** for reproducibility and extension  
+
+---
+
+## 🛠️ Technologies Used
+| Tool            | Purpose                              |
+|-----------------|--------------------------------------|
+| Python          | Core language for analysis           |
+| Pandas          | Data wrangling and aggregation       |
+| NumPy           | Numerical operations                 |
+| Matplotlib      | Visualization                        |
+| Seaborn         | Advanced visualization               |
+| Jupyter Notebook| Interactive development              |
+| (Optional) Scikit-learn / Statsmodels | ML & statistical modeling |
+
+---
+
+## 📁 Folder Structure
+## AirBnbHotelAnalysis/
+##│
+##│── data/ # Raw and cleaned datasets
+##│── notebooks/ # Jupyter notebooks for EDA and visualization
+##│── visuals/ # Saved plots and charts
+##│── README.md # Project overview
+##│── conclusions/ # Summary write-ups and future scope
 
 ## 📊 Key Insights
 - Entire home/apartment listings dominate across NYC  
